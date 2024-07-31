@@ -1,4 +1,4 @@
-# A Scoreboard for *Anno 1800: The Board Game*
+# A Score Calculator for *Anno 1800: The Board Game*
 ## Current Content
 - console only python script
 - enter player names
